@@ -19,10 +19,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2179822223/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4241820180/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2049087681/index.m3u8
@@ -193,10 +193,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1665920101/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/449990998/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4246774056/index.m3u8
@@ -340,10 +340,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1228534500/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2330574729/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA DUE +24
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1078650168/index.m3u8
@@ -376,10 +376,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1944682394/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1492183364/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4272937805/index.m3u8
@@ -418,16 +418,16 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3137990890/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4 (2)
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2416993844/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4 (2)
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3137990890/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2255083866/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2909818756/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3251217290/index.m3u8
@@ -442,10 +442,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2130255339/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1440779061/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1134113883/index.m3u8
@@ -547,19 +547,19 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3267376899/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari", DISCOVERY CHANNEL
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3554841914/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1955739367/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari", DISCOVERY CHANNEL (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1955739367/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3554841914/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari", DISCOVERY FOCUS
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1574591400/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2651461317/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2134724757/index.m3u8
@@ -580,10 +580,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3229664409/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1902695925/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1806815496/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari", SKY DOCUMENTARIES
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/464281981/index.m3u8
@@ -604,10 +604,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1585005860/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/963607327/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3802167244/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3802167244/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/963607327/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica", EURO INDIE MUSIC CHART TV
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3569731325/index.m3u8
@@ -736,10 +736,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2749478718/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3107500995/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1527236924/index.m3u8
@@ -832,10 +832,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2179686828/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2373936189/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4060499455/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro", GLOBUS TELEVISION
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2116902817/index.m3u8
@@ -1174,10 +1174,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2706291008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3845119578/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2202937518/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2202937518/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3845119578/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV YES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv-yes-it.png?raw=true" group-title="Altro", TV YES
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2569530225/index.m3u8
@@ -1210,10 +1210,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2070070755/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2471902234/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4271554009/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro", VIDEO NOVARA
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2791781421/index.m3u8
@@ -1234,18 +1234,6 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi Live", ----- Soccer -----
-http://example.com/Soccer.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30" group-title="Eventi Live" tvg-logo="", Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="882" tvg-name="Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30" group-title="Eventi Live" tvg-logo="", Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Genoa vs Atalanta - 17/05/2025 20:45" group-title="Eventi Live" tvg-logo="", Italy - Serie A : Genoa vs Atalanta - 17/05/2025 20:45
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-name="----- Climbing -----" group-title="Eventi Live", ----- Climbing -----
-http://example.com/Climbing.m3u8
-#EXTINF:-1 tvg-id="878" tvg-name="World Cup Curitiba | Boulder | Men's Final - 17/05/2025 22:00" group-title="Eventi Live" tvg-logo="", World Cup Curitiba | Boulder | Men's Final - 17/05/2025 22:00
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi Live", ----- Soccer -----
 http://example.com/Soccer.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Everton vs Southampton - 18/05/2025 13:00" group-title="Eventi Live" tvg-logo="", England - Premier League : Everton vs Southampton - 18/05/2025 13:00
