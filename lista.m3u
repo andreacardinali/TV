@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/andreacardinali/TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/875922788/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1225653759/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1939210164/index.m3u8
@@ -28,10 +28,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2049087681/index.m3u8
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3249873828/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3163380543/index.m3u8
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3163380543/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3249873828/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1803677691/index.m3u8
@@ -52,10 +52,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2272923972/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2239645272/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2239645272/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2272923972/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2828455552/index.m3u8
@@ -79,10 +79,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/843891896/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai", RAI STORIA
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/78838793/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/57338653/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai", RAI STORIA (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/57338653/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai", RAI YOYO
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1890950169/index.m3u8
@@ -151,16 +151,16 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3448075317/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3481346857/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3448075317/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2283887097/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2317684453/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2973773076/index.m3u8
@@ -193,10 +193,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/449990998/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1665920101/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4246774056/index.m3u8
@@ -319,10 +319,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1144128726/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2242741766/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3812796171/index.m3u8
@@ -376,10 +376,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1944682394/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1492183364/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2268489342/index.m3u8
@@ -406,16 +406,16 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/877200714/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/525374356/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/877200714/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/573618724/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/153693434/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2416993844/index.m3u8
@@ -442,10 +442,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1440779061/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2130255339/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1753260677/index.m3u8
@@ -457,10 +457,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/836680112/index.m3u8
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV", TOP CRIME
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3420407456/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV", TOP CRIME (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/269503091/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News", EURONEWS
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/490955579/index.m3u8
@@ -523,10 +523,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1995860185/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/11090349/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2255724318/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2255724318/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/11090349/index.m3u8
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini", NICK JR
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/380958472/index.m3u8
@@ -562,10 +562,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/317837654/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2134724757/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/179844839/index.m3u8
@@ -580,10 +580,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1902695925/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1806815496/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari", SKY DOCUMENTARIES
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/464281981/index.m3u8
@@ -748,10 +748,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2719953688/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3743894403/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/62558606/index.m3u8
@@ -823,10 +823,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2767861049/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2820683351/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2179686828/index.m3u8
@@ -862,10 +862,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/576490047/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1565298794/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1200985239/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro", ITALIAN FISHING TV
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/477083716/index.m3u8
@@ -877,10 +877,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/84139639/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5 (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1425667375/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro", LA 7
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2143522071/index.m3u8
@@ -961,10 +961,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1232565681/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2251241999/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/1574975196/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro", REGGIO TV
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2165549789/index.m3u8
@@ -1174,10 +1174,10 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2706291008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2202937518/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3845119578/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI (2)
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/3845119578/index.m3u8
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2202937518/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV YES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv-yes-it.png?raw=true" group-title="Altro", TV YES
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://vavoo.to/play/2569530225/index.m3u8
@@ -1238,10 +1238,48 @@ http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=htt
 http://example.com/Soccer.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="Bundesliga : Heidenheim vs Elversberg - 22/05/2025 20:30" group-title="Eventi Live" tvg-logo="", Bundesliga : Heidenheim vs Elversberg - 22/05/2025 20:30
 http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-name="----- Basketball -----" group-title="Eventi Live", ----- Basketball -----
-http://example.com/Basketball.m3u8
-#EXTINF:-1 tvg-id="879" tvg-name="Lega A : Pallacanestro Reggiana vs. Trapani Shark - 22/05/2025 20:00" group-title="Eventi Live" tvg-logo="", Lega A : Pallacanestro Reggiana vs. Trapani Shark - 22/05/2025 20:00
-http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://windnew.newkso.ru/wind/premium879/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi Live", ----- Soccer -----
+http://example.com/Soccer.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie A : Como vs Internazionale - 23/05/2025 20:45" group-title="Eventi Live" tvg-logo="", Italy - Serie A : Como vs Internazionale - 23/05/2025 20:45
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie A : Napoli vs Cagliari - 23/05/2025 20:45" group-title="Eventi Live" tvg-logo="", Italy - Serie A : Napoli vs Cagliari - 23/05/2025 20:45
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://windnew.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi Live", ----- Motorsport -----
+http://example.com/Motorsport.m3u8
+#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/2025 10:55" group-title="Eventi Live" tvg-logo="", Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/2025 10:55
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/2025 11:00" group-title="Eventi Live" tvg-logo="", MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/2025 11:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/2025 11:00" group-title="Eventi Live" tvg-logo="", Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/2025 11:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/2025 11:05" group-title="Eventi Live" tvg-logo="", Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/2025 11:05
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/2025 12:00" group-title="Eventi Live" tvg-logo="", Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/2025 12:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/2025 13:30" group-title="Eventi Live" tvg-logo="", Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/2025 13:30
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/2025 15:05" group-title="Eventi Live" tvg-logo="", Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/2025 15:05
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/2025 15:10" group-title="Eventi Live" tvg-logo="", Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/2025 15:10
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/2025 15:15" group-title="Eventi Live" tvg-logo="", MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/2025 15:15
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/2025 16:00" group-title="Eventi Live" tvg-logo="", Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/2025 16:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/2025 16:00" group-title="Eventi Live" tvg-logo="", Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/2025 16:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/2025 17:00" group-title="Eventi Live" tvg-logo="", Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/2025 17:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Cycling -----" group-title="Eventi Live", ----- Cycling -----
+http://example.com/Cycling.m3u8
+#EXTINF:-1 tvg-id="851" tvg-name="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/2025 13:00" group-title="Eventi Live" tvg-logo="", Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/2025 13:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/2025 13:00" group-title="Eventi Live" tvg-logo="", Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/2025 13:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Volleyball -----" group-title="Eventi Live", ----- Volleyball -----
+http://example.com/Volleyball.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/2025 20:00" group-title="Eventi Live" tvg-logo="", Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/2025 20:00
+http://192.168.195.3:8888/proxy/hls/manifest.m3u8?api_password=Pegullo123!&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
